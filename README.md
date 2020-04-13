@@ -1,2 +1,2 @@
-# linear_regression
-Excercise on training linear regression model
+# training_models
+Excersises from the chapter relating to training models
